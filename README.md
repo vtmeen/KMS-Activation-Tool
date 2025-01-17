@@ -53,13 +53,13 @@ This is a straightforward tool for handling Windows activation through KMS (`Key
 </hr>
 
 - ✉️`slmgr /skms [server_address]` — Configures the KMS server.
-   >![wscript_TOg7yzubqW](https://github.com/user-attachments/assets/f45a0981-adec-4e6b-a52c-c384e6cdbd23)
+   >![wscript_TOg7yzubqW](https://github.com/vtmeen/KMS-Activation-Tool/blob/main/pic/401530279-f45a0981-adec-4e6b-a52c-c384e6cdbd23.png)
 
 - 🔑`slmgr /ipk [product_key]` — Installs the KMS client key for the selected Windows edition.
-   > ![wscript_4CNWMlPWgI](https://github.com/user-attachments/assets/472e58d1-4668-40e3-842a-1d4e1043b044)
+   > ![wscript_4CNWMlPWgI](https://github.com/vtmeen/KMS-Activation-Tool/blob/main/pic/401533422-472e58d1-4668-40e3-842a-1d4e1043b044.png) 
    
 - ✅`slmgr /ato` — Activates the installed key.
-   > ![wscript_LRsIye3Jwn](https://github.com/user-attachments/assets/68015edd-d9f3-4dc4-a903-0546dc7b0768)
+   > ![wscript_LRsIye3Jwn](https://github.com/vtmeen/KMS-Activation-Tool/blob/main/pic/401533550-68015edd-d9f3-4dc4-a903-0546dc7b0768.png)
 
 <p align="center"> PROFIT! Windows is activated and updates are working
 
